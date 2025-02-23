@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5e2f050.css",
+    "main.js": "/static/js/main.0c2d7c6c.js",
+    "static/media/star-dynamic-premium.png": "/static/media/star-dynamic-premium.8280766ab751bbebc31e.png",
+    "static/media/notebook-dynamic-clay.png": "/static/media/notebook-dynamic-clay.7929628efbc9db2ba0ae.png",
+    "static/media/book-holder.jpg": "/static/media/book-holder.fb5770916b196b42c613.jpg",
+    "static/media/form-image.svg": "/static/media/form-image.20bc68bba302581d00b732c480692dfd.svg",
+    "static/media/empty-store.svg": "/static/media/empty-store.fb65d7123c4d5814a84eddf6847ead14.svg",
+    "static/media/blank-canva.svg": "/static/media/blank-canva.e5aa30b19a3ed507779b4a340c4ea6f8.svg",
+    "static/media/empty-search.svg": "/static/media/empty-search.1e9a7388b479c2a2be6c3734a80b5d54.svg",
+    "static/media/Create-amico.svg": "/static/media/Create-amico.063cd5259f76bcc6070aa2474cb9e4ca.svg",
+    "index.html": "/index.html",
+    "main.c5e2f050.css.map": "/static/css/main.c5e2f050.css.map",
+    "main.0c2d7c6c.js.map": "/static/js/main.0c2d7c6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5e2f050.css",
+    "static/js/main.0c2d7c6c.js"
+  ]
+}
